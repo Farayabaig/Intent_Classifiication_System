@@ -18,4 +18,3 @@ This project demonstrates a lightweight intent classification system tailored fo
 1. Clone the repository:
    ```bash
    git clone https://github.com/Farayabaig/Intent_Classifiication_System.git
-   cd intent-classifier
