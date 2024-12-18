@@ -24,9 +24,10 @@ This project demonstrates a lightweight intent classification system tailored fo
 The following metrics highlight the performance of the intent classification system:
 
 **1. Overall Accuracy**
-Total Queries: 10
-Correct Predictions: 9
-Accuracy: 90%
+- Total Queries: 10
+- Correct Predictions: 9
+- Accuracy: 90%
+
 **2. Confidence Scores**
 Average Confidence Score: 85.8%
 Lowest Confidence Score: 0.58 (Billing Inquiry)
